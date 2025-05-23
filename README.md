@@ -1,7 +1,7 @@
 # Mohammad Muzafar - Portfolio
 
 Welcome to my professional portfolio showcasing my skills, projects, and experiences as a software developer.
-🌐Live link: [https://muzafar-portfolio-9xs57itgt-trons-projects-6218f3d8.vercel.app/]
+🌐[Live link] (https://muzafar-portfolio-9xs57itgt-trons-projects-6218f3d8.vercel.app/)
 
 ## Features
 - Responsive Design
