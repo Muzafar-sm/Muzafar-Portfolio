@@ -64,7 +64,7 @@ import Mallie from './review/Mallie.webp'
 import Jed from './review/Jed.webp'
 import internet from '../assets/icons/internet.png';
 import tensorflow from '../assets/tech/tensor.png';
-import next from './tech/next.png';
+import next from './tech/Next.png';
 import mongodb from '../assets/tech/MongoDB.png';
 import python from '../assets/tech/python.png';
 import java from '../assets/tech/java.png';
